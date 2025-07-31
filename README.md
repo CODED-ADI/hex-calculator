@@ -7,7 +7,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/CODED-ADI/hex-calculator?style=social)
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x250/2D2D2D/FFFFFF?text=HEX+Calculator" alt="Calculator Screenshot">
+  <img src="https://github.com/CODED-ADI/hex-calculator/blob/main/calculator-ui.png" alt="Calculator Screenshot">
 </p>
 
 ## 🌟 Features That Shine
